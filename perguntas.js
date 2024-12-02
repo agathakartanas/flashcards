@@ -23,13 +23,13 @@ criaCartao(
 )
 
 criaCartao(
-    'matematica',
+    'Programação',
     'quanto e 2+2',
     '4'
 )
 
 criaCartao(
-    'ciencias',
+    'Programação',
     'O que e mitose',
     'virus'
 )
