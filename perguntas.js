@@ -17,7 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'matematica',
+    'quanto e 2+2',
+    '4'
+)
+
+criaCartao(
+    'ciencias',
+    'O que e mitose',
+    'virus'
 )
