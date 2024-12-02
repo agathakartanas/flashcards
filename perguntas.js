@@ -1,5 +1,5 @@
 criaCartao(
-    'Tema CSS',
+    'Tema CSS'
     'O que e CSS?',
     'É uma linguagem para estilizar páginas HTML'
 )
