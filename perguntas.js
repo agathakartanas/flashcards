@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'matematica',
+    'matematica'
     'Quanto e 2+2?',
     '4'
 )
 
 criaCartao(
-    'Programação',
+    'Programação'
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'ciencias',
-    'Oque tem varias listras',
+    'ciencias'
+    'O que tem varias listras',
     'zebra'
 )
