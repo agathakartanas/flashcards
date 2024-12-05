@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é pais',
+    'refere-se a determinada classificação de um território que possui uma unidade político-administrativa formada por um governo central.'
 )
 
 criaCartao(
